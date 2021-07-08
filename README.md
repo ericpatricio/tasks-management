@@ -1,4 +1,4 @@
-#Tasks management
+# Tasks management
 
 - A to-do list using bootstrap, SASS and JavaScript.
 - With this web app you can add task, delete, filter and it will persist to local storage.
